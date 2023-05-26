@@ -10,4 +10,5 @@ We choose Python language to write our automation script. Our script includes th
 4) Dependencies: The code relies on the nmap, socket and requests modules. Make sure you have these modules installed before running the script. You can install any missing modules using pip install <module_name>.
 5) Wordlist: The find_directories function assumes a wordlist file located at "/usr/share/wordlists/dirb/common.txt" by default.
 
+Link to the demonstration video: https://youtu.be/riQcfu13sb4
 More detailed report in the Word file.
